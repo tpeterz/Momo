@@ -61,20 +61,51 @@
  * Yellowtail GF
  * Baby shrimp/scallop
  * *Other Protein:*
- * Marinated Smoked Salmon NOT GF
+ * Marinated Smoked Salmon - NOT GF
+ * Fried Tofu - GF
+ * Regular Crab Salad - GF
+ * Real Crab Salad - GF
+ * Tobiko - GF
+ * Masago - GF
+ * Ikura (Salmon Roe) - GF
+ * Bulgogi - NOT GF
+ * Eel - GF
+* Step 3: Toppings
+ * *Marinated:*
+ * Carrot - GF
+ * Kampyo - GF
+ * Mushroom - GF
+ * Zucchini - GF
+ * Spinach - GF
+ * Seaweed Salad - NOT GF
+ * Octopus Salad - NOT GF
+ *Non-Marinated:*
+ * Lettuce - GF
+ * Asparagus - GF
+ * Avocado - GF
+ * Cucumber - GF
+ * Cilantro - GF
+ * Jalapeno - GF
+ * Corn - GF
+ * Edamame - GF
+* Step 4: Sauces
 ### Sauces
 * Eel Sauce - GF
 * Spicy Sauce (Spicy Mayo) - GF
 * Wasabi Sauce - GF
 * Wine Sauce - GF
 * Chili 1 Sauce (Sriracha) - GF
-* Chili 2 Sauce
-* Sweet Chili
-* Honey Sauce
+* Chili 2 Sauce - Unverified, NOT GF
+* Sweet Chili - Unverified, NOT GF
+* Honey Sauce - Unverified, NOT GF
 * Sunomono Sauce - GF
 * Spicy Ponzu - NOT GF
 * Olive Oil Sauce - GF
 * Gochujang Sauce - NOT GF
+
+## From The Kitchen
+* Bulgogi - NOT GF
+* Seafood Udon - 
 
 Marinated Salmon/Tuna/Spicy Crab: GF
 Spicy Salmon/Tuna/Crab/Yellowtail: GF
