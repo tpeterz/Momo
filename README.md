@@ -2,7 +2,7 @@
 
 # Gluten Free Indication Menu
 
->Note: Due to cross-contamination possibilities, anything fried in the same oil as non-gluten free ingredients pose a risk.
+>Note: Anything fried in the same oil as non-gluten free ingredients may increase your risk due to cross-contamination possibilities.
 
 ## Appetizers
 
@@ -63,8 +63,18 @@
  * *Other Protein:*
  * Marinated Smoked Salmon NOT GF
 ### Sauces
-* 
-
+* Eel Sauce - GF
+* Spicy Sauce (Spicy Mayo) - GF
+* Wasabi Sauce - GF
+* Wine Sauce - GF
+* Chili 1 Sauce (Sriracha) - GF
+* Chili 2 Sauce
+* Sweet Chili
+* Honey Sauce
+* Sunomono Sauce - GF
+* Spicy Ponzu - NOT GF
+* Olive Oil Sauce - GF
+* Gochujang Sauce - NOT GF
 
 Marinated Salmon/Tuna/Spicy Crab: GF
 Spicy Salmon/Tuna/Crab/Yellowtail: GF
