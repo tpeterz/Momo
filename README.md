@@ -1,8 +1,13 @@
 # Momo
 
-# Gluten Free Menu
+# Gluten Free Indication Menu
+
+>Note: Due to cross-contamination possibilities, anything fried in the same oil as non-gluten free ingredients pose a risk.
 
 ## Appetizers
+
+**Gluten Free:**
+
 * Edamame
 * Sunomono
 * Tuna Tadaki/Cajun Tuna Tadaki/Salmon Tadaki/Sashimi **Salads** W/O Dressing/On Side
@@ -10,6 +15,19 @@
 * Spider - W/O sauce
 * Orange Ceviche - W/O Sauce (spicy ponzu is added but not mentioned on the menu)
 * Squid Bomb - W/O Sauce
+
+**Not Gluten-Free:**
+
+* Miso
+* House Salad (GF W/O Dressing)
+* Seaweed Salad
+* Octopus Salad
+* Panko Tuna Tadaki Salad
+* Pork Gyoza
+* Vegetable Gyoza
+* Katsu Shrimp Temupura
+* Vegetable Tempura
+* 
 
 ## Burritos
 **Substitutions are available for originally fried options**
