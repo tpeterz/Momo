@@ -1,5 +1,53 @@
 # Momo
 
+# Gluten Free Menu
+
+## Appetizers
+* Edamame
+* Sunomono
+* Tuna Tadaki/Cajun Tuna Tadaki/Salmon Tadaki/Sashimi **Salads** W/O Dressing/On Side
+* Agedashi Tofu (Potato starch to fry)
+* Spider - W/O sauce
+* Orange Ceviche - W/O Sauce (spicy ponzu is added but not mentioned on the menu)
+* Squid Bomb - W/O Sauce
+
+## Burritos
+**Substitutions are available for originally fried options**
+- For example, shrimp tempura (fried with tempura batter) can be substituted for regular, cooked shrimp.
+* Momo - W/O Crunch
+* Dragon - W/O Shrimp Tempura & Crunch
+* Fire Ball - W/O Crunch
+* Pacific
+* Scotland
+* Shrimp Festival - W/O Shrimp Tempura, Crunch, and Chili Sauce
+* Muenster - W/O Crunch
+
+## Cupbop (Poke Bowls)
+* Tuna Lover
+* Salmon Lover
+* Scallop and Shrimp Lover
+
+## Custom Cupbop
+* Step 1: Base
+ * White Rice, Sushi Rice, Brown Rice
+* Step 2: Proteins
+ * *Homemade Oil Marinated:*
+ * Tuna GF
+ * Salmon GF
+ * Baby shrimp, scallop GF
+ * *Homemade Spicy:*
+ * Tuna GF
+ * Salmon GF
+ * Crab salad GF
+ * Escolar GF
+ * Yellowtail GF
+ * Baby shrimp/scallop
+ * *Other Protein:*
+ * Marinated Smoked Salmon NOT GF
+### Sauces
+* 
+
+
 Marinated Salmon/Tuna/Spicy Crab: GF
 Spicy Salmon/Tuna/Crab/Yellowtail: GF
 Ginger Dressing: Not GF\par
