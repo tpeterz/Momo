@@ -46,10 +46,11 @@
 * Scallop and Shrimp Lover
 
 ## Custom Cupbop
-* Step 1: Base
+#### Step 1: Base
  * White Rice, Sushi Rice, Brown Rice
-* Step 2: Proteins
- * *Homemade Oil Marinated:*
+#### Step 2: Proteins
+
+*Homemade Oil Marinated:*
  * Tuna GF
  * Salmon GF
  * Baby shrimp, scallop GF
@@ -60,7 +61,8 @@
  * Escolar GF
  * Yellowtail GF
  * Baby shrimp/scallop
- * *Other Protein:*
+
+*Other Protein:*
  * Marinated Smoked Salmon - NOT GF
  * Fried Tofu - GF
  * Regular Crab Salad - GF
@@ -70,8 +72,9 @@
  * Ikura (Salmon Roe) - GF
  * Bulgogi - NOT GF
  * Eel - GF
-* Step 3: Toppings
- * *Marinated:*
+#### Step 3: Toppings
+
+*Marinated:*
  * Carrot - GF
  * Kampyo - GF
  * Mushroom - GF
@@ -79,7 +82,8 @@
  * Spinach - GF
  * Seaweed Salad - NOT GF
  * Octopus Salad - NOT GF
- *Non-Marinated:*
+
+*Non-Marinated:*
  * Lettuce - GF
  * Asparagus - GF
  * Avocado - GF
@@ -88,7 +92,7 @@
  * Jalapeno - GF
  * Corn - GF
  * Edamame - GF
-* Step 4: Sauces
+#### Step 4: Sauces
 ### Sauces
 * Eel Sauce - GF
 * Spicy Sauce (Spicy Mayo) - GF
