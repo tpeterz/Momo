@@ -27,7 +27,7 @@
 * Vegetable Gyoza
 * Katsu Shrimp Temupura
 * Vegetable Tempura
-* 
+* Coconut Shrimp Tempura
 
 ## Burritos
 **Substitutions are available for originally fried options**
