@@ -94,7 +94,7 @@
  * Edamame - GF
 #### Step 4: Sauces
 ### Sauces
-* Eel Sauce - GF
+* Eel Sauce - NOT GF
 * Spicy Sauce (Spicy Mayo) - GF
 * Wasabi Sauce - GF
 * Wine Sauce - GF
